@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm CyberSentinel 🛡️</h1>
 
-<h3 align="center">Computer Engineer | IT Infrastructure & Cybersecurity</h3>
+<h3 align="center">Cybersecurity Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/eduar696">👉 Click aquí para ver mi proyecto principal</a>
+</p>
 
 ---
 
@@ -12,7 +16,7 @@ I bridge the gap between technical support and cybersecurity, focusing on design
 ### 🛠 Technical Competencies
 * **Infrastructure & Systems:** Linux administration, hardware troubleshooting, and systems optimization.
 * **Networking:** Network configuration, routing, and deep packet inspection.
-* **Security & Monitoring:** Log analysis, threat detection, and environment hardening.
+* **Security & Monitoring:** Log analysis, threat detection, and incident response methodologies.
 * **Virtualization:** Management of isolated labs for research and technical testing.
 
 ---
