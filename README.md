@@ -19,7 +19,3 @@ I bridge the gap between technical support and cybersecurity, focusing on design
 
 ### 📝 Note
 *Most of my technical documentation is written in Spanish. Feel free to contact me if you have any questions.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberSentinel&show_icons=true&theme=radical" />
-</p>
