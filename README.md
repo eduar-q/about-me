@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm CyberSentinel 🛡️</h1>
+<h1 align="center">Hi, I'm Eduar 🛡️</h1>
 
 <h3 align="center">Cybersecurity Projects</h3>
 
