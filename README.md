@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Logo principal (Imagen personalizada) -->
-<img src="assets/linuxbad.png" alt="linuxbad.png" width="350" />
-
-<br>
+<!-- Banner: Imagen personalizada de servidor -->
+<img src="linuxbad3.png" alt="linuxbad3.png" width="100%" />
 
 ## Hi, I'm Eduar
 ### _Infrastructure & Security Lab_
