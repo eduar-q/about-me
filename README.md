@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Banner Dinámico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Engineering%20Journal&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Banner" />
+<!-- Banner Dinámico en Tono Oscuro/Radical -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Engineering%20Journal&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Banner" />
 
-### _Hello, I'm Eduar_
-#### Infrastructure & Security Lab
+### <tt><sub>_Hi, I'm Eduar_</sub></tt>
+#### <tt>Infrastructure & Security Lab</tt>
 
 <!-- Botones -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
