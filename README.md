@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER / BANNER DINÁMICO -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=EDURA&fontSize=80&animation=fadeIn&theme=radical"  alt="Edur Header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=CYBERSENTINEL&fontSize=80&animation=fadeIn&theme=radical"  alt="Edur Header" />
 
 <br/>
 
