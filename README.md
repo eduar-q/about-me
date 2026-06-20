@@ -1,8 +1,7 @@
-<div align="center">
+<!-- Banner de CyberSentinel -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CyberSentinel&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="CyberSentinel Banner" />
 
-<!-- BANNER CORREGIDO: Con curva, letra cursiva y más pequeña -->
 
-<img src="assets/banner.png" alt="CyberSentinel Banner" width="100%" />
 
 ## Hi, I'm Eduar
 ### Infrastructure & Security Lab
