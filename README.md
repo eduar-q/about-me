@@ -1,5 +1,5 @@
 <!-- Banner de CyberSentinel -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CyberSentinel&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="If you can define it, you can implement it" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=C"If you can define it,you can implement it&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="If you can define it, you can implement it" />
 
 
 
