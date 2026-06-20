@@ -25,7 +25,7 @@
 <br><br>
 
 ### 📝 Sobre mí
-Soy Ingeniero en Computación apasionado por la **ciberseguridad y la infraestructura**. Mi enfoque es construir puentes entre el soporte técnico tradicional y la seguridad defensiva. Me especializo en:
+Soy Ingeniero informático apasionado por la **ciberseguridad y la infraestructura**. Mi enfoque es construir puentes entre el soporte técnico tradicional y la seguridad defensiva. Me especializo en:
 
 * **Hardening y optimización** de sistemas Linux.
 * **Análisis de tráfico** y seguridad de redes.
