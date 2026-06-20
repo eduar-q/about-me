@@ -1,7 +1,6 @@
 <div align="center">
-
-<!-- HEADER / BANNER DINÁMICO -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=EDUR&fontSize=80&animation=fadeIn&theme=radical"  alt="Edur Header" />
+<!-- Banner de CyberSentinel -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CyberSentinel&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="CyberSentinel Banner" />&color=auto&height=200&section=header&text=EDUR&fontSize=80&animation=fadeIn&theme=radical"  alt="Edur Header" />
 
 <br/>
 
