@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- BANNER CORREGIDO: Con curva, letra cursiva y más pequeña -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d004d&height=250&section=header&text=Engineering%20Journal&fontSize=30&fontColor=ffffff&fontAlignY=40&font=Dancing%20Script&animation=fadeIn&rebuild=true" alt="Banner" />
+<!-- Logo principal (Imagen personalizada) -->
+<img src="assets/linuxbad.png" alt="linuxbad.png" width="350" />
+
+<br>
 
 ## Hi, I'm Eduar
-### Infrastructure & Security Lab
+### _Infrastructure & Security Lab_
 
 <!-- Botones -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
