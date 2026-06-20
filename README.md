@@ -41,6 +41,6 @@ Siempre estoy investigando cómo "desarmar" y asegurar la tecnología, desde el 
 
 ---
 
-![Eduar GitHub stats](https://github-readme-stats.vercel.app/api?username=eduar696&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title=Eduar%27s%20GitHub%20Stats)
-
+### 📊 GitHub Stats
+![Eduar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduar696&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title=Eduar%27s%20GitHub%20Stats)
 </div>
