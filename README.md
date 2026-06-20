@@ -36,6 +36,6 @@ Siempre estoy investigando cómo "desarmar" y asegurar la tecnología, desde el 
 ---
 
 ### 📊 GitHub Stats
-![Eduar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduar696&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Eduar's GitHub stats](https://github-readme-stats.vercel.app/api?Eduar=eduar696&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
