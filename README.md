@@ -25,6 +25,7 @@
 <img alt="Git" width="30px" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br><br>
  📝 About Me
+ 
 I am a Computer Engineer passionate about **cybersecurity and infrastructure**. My focus is to build bridges between traditional technical support and defensive security. I specialize in:
 
 * **Hardening and optimization** of Linux systems.
