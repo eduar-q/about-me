@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Banner Único -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Cybersecurity%20Projects&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Cybersecurity Projects Banner" />
+<!-- Banner actualizado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Cybersecurity%20Lab&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Cybersecurity Lab Banner" />
 
 ### 💻 Computer Engineer | Cybersecurity Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduar-q-129bb5258/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduar696)
 
 ---
