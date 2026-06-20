@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Banner Principal -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CyberSentinel&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="CyberSentinel Banner" />
-
-<!-- Sub-banner con la frase -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=If%20you%20can%20define%20it,%20you%20can%20implement%20it&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Motto" />
+<!-- Banner Único -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Cybersecurity%20Projects&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Cybersecurity Projects Banner" />
 
 ### 💻 Computer Engineer | Cybersecurity Enthusiast
 
@@ -14,8 +11,6 @@
 ---
 
 ### 🚀 Featured Projects
-*My latest tools for system auditing:*
-
 **[linux-security-change-timeline](https://github.com/eduar696/linux-security-change-timeline)**
 *Automation to identify privileged account modifications.*
 
@@ -35,9 +30,13 @@
 ### 📝 About Me
 I am a **Computer Engineer** passionate about **cybersecurity and infrastructure**. My focus is to build bridges between traditional technical support and defensive security. I specialize in:
 
-* **Hardening and optimization** of Linux systems.
-* **Traffic analysis** and network security.
-* **Automation** through scripts for security audits.
+<br>
+
+**Hardening and optimization of Linux systems.**
+<br>
+**Traffic analysis and network security.**
+<br>
+**Automation through scripts for security audits.**
 
 ---
 
