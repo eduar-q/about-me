@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Banner: Imagen personalizada de servidor -->
-<img src="linuxbad3.png" alt="linuxbad3.png" width="100%" />
+<div align="center">
+  <img src="./linuxbad3.png" alt="linuxbad3" width="100%" />
+</div>
 
 ## Hi, I'm Eduar
 ### _Infrastructure & Security Lab_
