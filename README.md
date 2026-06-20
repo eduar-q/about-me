@@ -3,8 +3,8 @@
 <!-- Banner Dinámico -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Engineering%20Journal&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Banner" />
 
-# Eduar
-### Infrastructure & Security Lab
+### _Hello, I'm Eduar_
+#### Infrastructure & Security Lab
 
 <!-- Botones -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
