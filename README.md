@@ -1,19 +1,19 @@
 <div align="center">
 
-# ¡Hola! Soy Eduar 🛡️
+# Hi, I'm Eduar 🛡️
 
 ### 💻 Computer Engineer | Cybersecurity Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduar-q-129bb5258/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduar696)
 
 ---
 
-### 🚀 Proyecto Destacado
-*Mi herramienta más reciente para auditoría de sistemas:*
+### 🚀 Featured Project
+*My latest tool for system auditing:*
 
 **[Access Relevance Analyzer](https://github.com/eduar696/access-relevance-analyzer)**
-*Automatización para identificar cuentas privilegiadas olvidadas en sistemas Linux.*
+*Automation to identify forgotten privileged accounts in Linux systems.*
 
 ---
 
@@ -24,23 +24,24 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br><br>
 
-### 📝 Sobre mí
-Soy Ingeniero en Computación apasionado por la **ciberseguridad y la infraestructura**. Mi enfoque es construir puentes entre el soporte técnico tradicional y la seguridad defensiva. Me especializo en:
+### 📝 About Me
+I am a Computer Engineer passionate about **cybersecurity and infrastructure**. My focus is to build bridges between traditional technical support and defensive security. I specialize in:
 
-* **Hardening y optimización** de sistemas Linux.
-* **Análisis de tráfico** y seguridad de redes.
-* **Automatización** mediante scripts para auditorías de seguridad.
+* **Hardening and optimization** of Linux systems.
+* **Traffic analysis** and network security.
+* **Automation** through scripts for security audits.
 
-Siempre estoy investigando cómo "desarmar" y asegurar la tecnología, desde el hardware hasta el análisis de logs.
+I am always investigating how to "dissect" and secure technology, from hardware to log analysis.
 
 ---
 
-### 🔭 Enfoque actual
-* Actualmente profundizando en: **Auditoría de logs en tiempo real** y **seguridad en contenedores**.
-* Siempre abierto a colaborar en proyectos de código abierto relacionados con **Linux y Seguridad**.
+### 🔭 Current Focus
+* Currently deepening knowledge in: **Real-time log auditing** and **container security**.
+* Always open to collaborating on open-source projects related to **Linux and Security**.
 
 ---
 
 ### 📊 GitHub Stats
 ![Eduar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduar696&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title=Eduar%27s%20GitHub%20Stats)
+
 </div>
