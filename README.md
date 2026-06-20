@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner: Púrpura profundo y negro -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d004d&height=250&section=header&text=Engineering%20Journal&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Banner" />
+<!-- BANNER CORREGIDO: Con curva, letra cursiva y más pequeña -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d004d&height=250&section=header&text=Engineering%20Journal&fontSize=30&fontColor=ffffff&fontAlignY=40&font=Dancing%20Script&animation=fadeIn&rebuild=true" alt="Banner" />
 
 ## Hi, I'm Eduar
 ### Infrastructure & Security Lab
