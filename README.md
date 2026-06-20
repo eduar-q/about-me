@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner: Elegante, cursiva, más pequeño y en tonos oscuros/morados -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=Engineering%20Journal&fontSize=40&fontColor=ffffff&fontAlignY=40&font=Dancing%20Script&animation=fadeIn" alt="Banner" />
+<!-- Banner: Púrpura profundo y negro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d004d&height=250&section=header&text=Engineering%20Journal&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Banner" />
 
 ## Hi, I'm Eduar
 ### Infrastructure & Security Lab
@@ -29,6 +29,8 @@
 
 ---
 
+</div> <!-- Cierre del centrado principal -->
+
 ### 📝 About Me
 I am a **Computer Engineer** passionate about **cybersecurity and infrastructure**. My focus is to build bridges between traditional technical support and defensive security. I specialize in:
 
@@ -45,6 +47,8 @@ I am always investigating how to "dissect" and secure technology, from hardware 
 * Always open to collaborating on open-source projects related to **Linux and Security**.
 
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 ![Eduar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduar696&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title=Eduar%27s%20GitHub%20Stats)
