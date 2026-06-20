@@ -2,7 +2,7 @@
 
 <!-- Banner: Imagen personalizada de servidor -->
 <div align="center">
-  <img src="./linuxbad3.png" alt="linuxbad3" width="100%" />
+  <img src="./linux696.png" alt="linux696" width="100%" />
 </div>
 
 ## Hi, I'm Eduar
