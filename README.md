@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Linux Security Lab Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f,00d2ff&height=250&section=header&text=Linux%20Security%20Lab&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 </div>
 
 
