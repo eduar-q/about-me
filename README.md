@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=EDUAR&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Linux Security Lab&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 
 # Hi, I'm Eduar 👋
 
