@@ -4,7 +4,7 @@
 
 # Linux Security • Blue Team • Infrastructure
 
-> *"Linux Security • Automation • Continuous Learning."*
+> *Linux Security • Automation • Continuous Learning.*
 
 <br>
 
