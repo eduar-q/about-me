@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=EDUAR&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=EDUAR
+
+Computer Engineer
+Linux Security • Blue Team • Infrastructure&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 
 # Linux Security • Blue Team • Infrastructure
 
