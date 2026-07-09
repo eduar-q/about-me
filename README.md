@@ -55,7 +55,7 @@ Automates the collection and comparison of Linux configuration snapshots to gene
 
 Analyzes privileged Linux accounts, evaluates group memberships and highlights accounts that may require administrative review based on privilege level and account activity.
 
-🔗 https://github.com/eduar696/access-relevance-analyzer
+🔗 https://github.com/eduar696/linux-privileged-access-review
 
 ---
 
