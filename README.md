@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f,ffffff&height=250&section=header&text=Linux%20Security%20Lab&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
+  <img src="banner.png" alt="Linux Security Lab Banner" width="100%"/>
 </div>
+
 
 
 # Hi, I'm Eduar 👋
