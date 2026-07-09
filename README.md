@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=EDUAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=EDUAR&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 
-Computer Engineer
-Linux Security • Blue Team • Infrastructure&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
+# Hi, I'm Eduar 👋
 
-# Linux Security • Blue Team • Infrastructure
+### Computer Engineer
 
-> *Linux Security • Automation • Continuous Learning.*
+### Linux Security • Blue Team • Infrastructure
+
+> *Building practical Linux security solutions through automation.*
 
 <br>
 
@@ -24,11 +25,13 @@ Linux Security • Blue Team • Infrastructure&fontSize=65&fontColor=ffffff&fon
 
 # 👨‍💻 About Me
 
-I'm a **Computer Engineer** passionate about **Linux security, infrastructure and defensive security**.
+I'm a **Computer Engineer** with a strong interest in **Linux security, defensive security and infrastructure**.
 
-I enjoy building practical tools that automate security reviews, analyze Linux configurations and generate clear reports that support infrastructure assessments.
+I enjoy building practical tools that automate security reviews, analyze Linux configurations and generate technical reports that help understand the security posture of a system.
 
-Most of my projects combine **Python**, **Bash** and **Linux** to simplify repetitive security tasks and improve visibility into system configurations.
+Most of my projects combine **Python**, **Bash** and **Linux** to automate repetitive security tasks and improve the visibility of critical configurations.
+
+I believe that effective security starts with understanding how systems work before attempting to secure them.
 
 ---
 
@@ -39,7 +42,7 @@ Most of my projects combine **Python**, **Bash** and **Linux** to simplify repet
 - Security Auditing
 - Bash Automation
 - Python for Security
-- Blue Team
+- Blue Team Operations
 - Infrastructure Security
 
 ---
@@ -48,7 +51,9 @@ Most of my projects combine **Python**, **Bash** and **Linux** to simplify repet
 
 ## 🔐 Linux Security Change Timeline
 
-Automates the collection and comparison of Linux configuration snapshots to generate a chronological report of security-related configuration changes.
+Collects and compares Linux configuration snapshots to generate a chronological timeline of security-related configuration changes.
+
+**Repository**
 
 🔗 https://github.com/eduar696/linux-security-change-timeline
 
@@ -56,23 +61,25 @@ Automates the collection and comparison of Linux configuration snapshots to gene
 
 ## 👥 Linux Privileged Access Review
 
-Analyzes privileged Linux accounts, evaluates group memberships and highlights accounts that may require administrative review based on privilege level and account activity.
+Reviews privileged Linux accounts, analyzes group memberships and highlights accounts that may require administrative review.
 
-🔗 https://github.com/eduar696/linux-privileged-access-review
+**Repository**
+
+🔗 https://github.com/eduar696/access-relevance-analyzer
 
 ---
 
 ## 🛡️ Linux Security Audit & Hardening *(Private)*
 
-Toolkit focused on Linux security auditing, configuration review and optional hardening tasks using Python and Bash.
+A modular toolkit for auditing Linux security configurations, generating technical reports and applying optional hardening recommendations using Python and Bash.
 
 ---
 
-# ⚙️ Technologies
+# 🛠️ Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/>
 
 </p>
 
@@ -81,11 +88,22 @@ Toolkit focused on Linux security auditing, configuration review and optional ha
 # 📚 Currently Learning
 
 - Linux Security
-- Linux Hardening
-- Bash Automation
-- Python for Security
+- Security Hardening
+- Python Automation
+- Bash Scripting
 - Security Auditing
+- Defensive Security
 - Infrastructure Security
+
+---
+
+# 🎯 Current Focus
+
+- Building practical cybersecurity projects.
+- Improving Linux hardening methodologies.
+- Automating security assessments.
+- Developing reusable security tooling.
+- Expanding Blue Team knowledge.
 
 ---
 
@@ -107,7 +125,11 @@ Toolkit focused on Linux security auditing, configuration review and optional ha
 
 <div align="center">
 
-### ⚡ Building practical Linux security tools one project at a time.
+## ⚡ Philosophy
+
+*"Security is not only about finding vulnerabilities; it's about understanding systems, reducing risk and building reliable solutions."*
+
+---
 
 ⭐ Thanks for visiting my profile!
 
