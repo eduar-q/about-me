@@ -4,7 +4,7 @@
 
 # Linux Security • Blue Team • Infrastructure
 
-> *"Automating security reviews, one Linux server at a time."*
+> *"Linux Security • Automation • Continuous Learning."*
 
 <br>
 
