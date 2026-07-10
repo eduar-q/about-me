@@ -65,7 +65,7 @@ Reviews privileged Linux accounts, analyzes group memberships and highlights acc
 
 **Repository**
 
-🔗 https://github.com/eduar696/access-relevance-analyzer
+🔗 https://github.com/eduar696/linux-privileged-access-review
 
 ---
 
