@@ -1,136 +1,85 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=250&section=header&text=Linux%20Security%20Lab&fontSize=65&fontColor=ffffff&fontAlignY=42&animation=fadeIn&v=2"/>
-</div>
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Eduar%20Q.&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/&gt;
+&lt;/div&gt;
 
-# Hi, I'm Eduar 👋
+&lt;h3 align="center"&gt;Linux Security • Blue Team • Infrastructure&lt;/h3&gt;
 
-### Computer Engineer
+&lt;p align="center"&gt;
+  &lt;em&gt;Automating Linux security reviews and building defensive tooling with Python & Bash.&lt;/em&gt;
+&lt;/p&gt;
 
-### Linux Security • Blue Team • Infrastructure
-
-> *Building practical Linux security solutions through automation.*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduar-q-129bb5258/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduar696)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=eduar696&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/eduar-q-129bb5258/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/eduar696"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **Computer Engineer** with a strong interest in **Linux security, defensive security and infrastructure**.
+I'm a **Computer Engineer** focused on **Linux security, defensive operations and infrastructure hardening**.
 
-I enjoy building practical tools that automate security reviews, analyze Linux configurations and generate technical reports that help understand the security posture of a system.
+I build practical tools that automate security audits, analyze system configurations and generate actionable reports — reducing manual work and improving visibility over critical Linux environments.
 
-Most of my projects combine **Python**, **Bash** and **Linux** to automate repetitive security tasks and improve the visibility of critical configurations.
+**What I do:**
+- 🔍 Automate security configuration reviews (SSH, firewall, users, services)
+- 📊 Build timelines and reports from system snapshots for incident response
+- 🛠️ Develop defensive scripts using Python, Bash and Linux native tools
+- 📝 Document security baselines and audit methodologies
 
-I believe that effective security starts with understanding how systems work before attempting to secure them.
-
----
-
-# 🎯 Areas of Interest
-
-- Linux Administration
-- Linux Hardening
-- Security Auditing
-- Bash Automation
-- Python for Security
-- Blue Team Operations
-- Infrastructure Security
+&gt; *"Effective security starts with understanding the system before attempting to secure it."*
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔐 Linux Security Change Timeline
+### 🔐 [Linux Security Change Timeline](https://github.com/eduar696/linux-security-change-timeline)
+Collects system configuration snapshots and generates chronological diff reports to detect **modified, added and removed** security-critical files across Linux systems.
 
-Collects and compares Linux configuration snapshots to generate a chronological timeline of security-related configuration changes.
-
-**Repository**
-
-🔗 https://github.com/eduar696/linux-security-change-timeline
+**Stack:** Python • Bash • Markdown
 
 ---
 
-## 👥 Linux Privileged Access Review
+### 👥 [Linux Privileged Access Review](https://github.com/eduar696/linux-privileged-access-review)
+Audits privileged Linux accounts by correlating primary/secondary group memberships (GID) with login activity to flag accounts requiring administrative review.
 
-Reviews privileged Linux accounts, analyzes group memberships and highlights accounts that may require administrative review.
-
-**Repository**
-
-🔗 https://github.com/eduar696/linux-privileged-access-review
+**Stack:** Python • `pwd`/`grp` • `lastlog`
 
 ---
 
-## 🛡️ Linux Security Audit & Hardening *(Private)*
+## 🛠️ Tech Stack
 
-A modular toolkit for auditing Linux security configurations, generating technical reports and applying optional hardening recommendations using Python and Bash.
-
----
-
-# 🛠️ Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/>
-
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/&gt;
+&lt;/p&gt;
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Exploring
 
-- Linux Security
-- Security Hardening
-- Python Automation
-- Bash Scripting
-- Security Auditing
-- Defensive Security
-- Infrastructure Security
+- Advanced Linux hardening (CIS Benchmarks, auditd, SELinux)
+- Blue Team detection engineering (Sigma rules, log analysis)
+- Security automation and SOAR concepts
+- Infrastructure as Code for secure deployments
 
 ---
 
-# 🎯 Current Focus
+## 📫 Connect
 
-- Building practical cybersecurity projects.
-- Improving Linux hardening methodologies.
-- Automating security assessments.
-- Developing reusable security tooling.
-- Expanding Blue Team knowledge.
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/eduar-q-129bb5258/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/eduar696"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/eduar-q-129bb5258">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/eduar696">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⚡ Philosophy
-
-*"Security is not only about finding vulnerabilities; it's about understanding systems, reducing risk and building reliable solutions."*
-
----
-
-⭐ Thanks for visiting my profile!
-
-</div>
+&lt;div align="center"&gt;
+  &lt;br&gt;
+  &lt;em&gt;⭐ Thanks for visiting — feel free to explore my repositories.&lt;/em&gt;
+&lt;/div&gt;
