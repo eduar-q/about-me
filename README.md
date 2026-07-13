@@ -25,7 +25,7 @@
 
 I'm **Eduar Q.**, a **Computer Engineer** focused on **Linux security, defensive operations and infrastructure hardening**.
 
-I build practical tools that automate security audits, analyze system configurations and generate actionable reports — reducing manual work and improving visibility over critical Linux environments.
+I build practical tools that automate security audits, analyze system configurations and generate actionable reports, reducing manual work and improving visibility over critical Linux environments.
 
 **What I do:**
 - 🔍 Automate security configuration reviews (SSH, firewall, users, services)
