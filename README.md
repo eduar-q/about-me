@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Linux%20Security%20Lab&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Linux%20Security%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 </div>
 
-<h3 align="center">Eduar Q. • Blue Team • Infrastructure</h3>
+<p align="center">
+  <strong>Eduar Q. — Linux Security • Blue Team • Infrastructure</strong>
+</p>
 
 <p align="center">
   <em>Automating security reviews and building defensive tooling with Python & Bash.</em>
@@ -16,11 +18,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## 👋 About Me
 
-I'm a **Computer Engineer** focused on **Linux security, defensive operations and infrastructure hardening**.
+I'm **Eduar**, a **Computer Engineer** focused on **Linux security, defensive operations and infrastructure hardening**.
 
 I build practical tools that automate security audits, analyze system configurations and generate actionable reports — reducing manual work and improving visibility over critical Linux environments.
 
@@ -36,7 +39,7 @@ I build practical tools that automate security audits, analyze system configurat
 
 ## 🚀 Featured Projects
 
-### 🔐 [Linux Security Change Timeline](https://github.com/eduar696/linux-security-change-timeline)
+### 🔐 [Linux Security Change Timeline](https://github.com/eduar-q/linux-security-change-timeline)
 
 Collects system configuration snapshots and generates chronological diff reports to detect **modified, added and removed** security-critical files across Linux systems.
 
@@ -44,7 +47,7 @@ Collects system configuration snapshots and generates chronological diff reports
 
 ---
 
-### 👥 [Linux Privileged Access Review](https://github.com/eduar696/linux-privileged-access-review)
+### 👥 [Linux Privileged Access Review](https://github.com/eduar-q/linux-privileged-access-review)
 
 Audits privileged Linux accounts by correlating primary/secondary group memberships (GID) with login activity to flag accounts requiring administrative review.
 
@@ -75,7 +78,7 @@ Audits privileged Linux accounts by correlating primary/secondary group membersh
   <a href="https://linkedin.com/in/eduar-q-129bb5258/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/eduar696">
+  <a href="https://github.com/eduar-q">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
