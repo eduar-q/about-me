@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Linux%20Security%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 </div>
 
-<p align="center">
-  <strong>Eduar Q. — Linux Security • Blue Team • Infrastructure</strong>
-</p>
 
 <p align="center">
   <em>Automating security reviews and building defensive tooling with Python & Bash.</em>
