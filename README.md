@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Eduar%20Q.&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&font=Pacifico"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Linux%20Security%20Lab&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 </div>
-<h3 align="center">Linux Security • Blue Team • Infrastructure</h3>
+
+<h3 align="center">Eduar Q. • Blue Team • Infrastructure</h3>
 
 <p align="center">
-  <em>Automating Linux security reviews and building defensive tooling with Python & Bash.</em>
+  <em>Automating security reviews and building defensive tooling with Python & Bash.</em>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/eduar-q-129bb5258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/eduar696">
+  <a href="https://github.com/eduar-q">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 👋 About Me
