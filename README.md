@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Eduar%20Q.&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Linux%20Security%20Lab&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 </div>
-
 <h3 align="center">Linux Security • Blue Team • Infrastructure</h3>
 
 <p align="center">
