@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Linux%20Security%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Eduar%20Q.&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 </div>
 
 <p align="center">
-  <strong>Linux Security • Blue Team • Infrastructure</strong>
+  <strong>Linux Security • Blue Team • Infrastructure Hardening</strong>
 </p>
 
 <p align="center">
-  <em>Automating security reviews and building defensive tooling with Python & Bash.</em>
+  <em>Building defensive tools that turn system noise into actionable security intelligence.</em>
 </p>
 
 <p align="center">
@@ -21,25 +21,29 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Eduar Q.**, a **Computer Engineer** focused on **Linux security, defensive operations and infrastructure hardening**.
 
-I build practical tools that automate security audits, analyze system configurations and generate actionable reports, reducing manual work and improving visibility over critical Linux environments.
+My path into technology started in **2015**, troubleshooting hardware, assembling machines and configuring networks for friends, family and local schools — long before I ever wrote a line of Python. That hands-on foundation taught me that **you cannot secure what you do not understand**.
+
+After graduating in **Computer Engineering (2022)**, I spent years bridging the gap between IT support and system administration. In **2025**, I doubled down on **cybersecurity and networking**, transitioning from general infrastructure to **defensive security, log analysis and Linux hardening**.
+
+Today I build practical tools that automate security audits, analyze system configurations and generate actionable reports — reducing manual work and improving visibility over critical Linux environments.
 
 **What I do:**
-- 🔍 Automate security configuration reviews (SSH, firewall, users, services)
-- 📊 Build timelines and reports from system snapshots for incident response
-- 🛠️ Develop defensive scripts using Python, Bash and Linux native tools
-- 📝 Document security baselines and audit methodologies
+- Automate security configuration reviews (SSH, firewall, users, services)
+- Build timelines and reports from system snapshots for incident response
+- Develop defensive scripts using Python, Bash and Linux native tools
+- Document security baselines and audit methodologies
 
 > *"Effective security starts with understanding the system before attempting to secure it."*
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 [Linux Security Change Timeline](https://github.com/eduar-q/linux-security-change-timeline)
+### [Linux Security Change Timeline](https://github.com/eduar-q/linux-security-change-timeline)
 
 Collects system configuration snapshots and generates chronological diff reports to detect **modified, added and removed** security-critical files across Linux systems.
 
@@ -47,15 +51,23 @@ Collects system configuration snapshots and generates chronological diff reports
 
 ---
 
-### 👥 [Linux Privileged Access Review](https://github.com/eduar-q/linux-privileged-access-review)
+### [Linux Privileged Access Review](https://github.com/eduar-q/linux-privileged-access-review)
 
 Audits privileged Linux accounts by correlating primary/secondary group memberships (GID) with login activity to flag accounts requiring administrative review.
 
-**Stack:** Python • `pwd`/`grp` • `lastlog`
+**Stack:** Python • pwd/grp • lastlog
 
 ---
 
-## 🛠️ Tech Stack
+### [Cybersecurity Foundations Lab](https://github.com/eduar-q/cybersecurity-foundations-lab)
+
+A read-only Bash toolkit for auditing Linux security fundamentals: network exposure, user permissions, authentication logs, SSH hardening and system baselines. Designed for junior SOC analysts and Blue Team operators.
+
+**Stack:** Bash • Linux Native Tools • OpSec Sanitization
+
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/>
@@ -63,7 +75,7 @@ Audits privileged Linux accounts by correlating primary/secondary group membersh
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 - Advanced Linux hardening (CIS Benchmarks, auditd, SELinux)
 - Blue Team detection engineering (Sigma rules, log analysis)
@@ -72,7 +84,7 @@ Audits privileged Linux accounts by correlating primary/secondary group membersh
 
 ---
 
-## 📫 Connect
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/eduar-q-129bb5258/">
@@ -85,5 +97,5 @@ Audits privileged Linux accounts by correlating primary/secondary group membersh
 
 <div align="center">
   <br>
-  <em>⭐ Thanks for visiting — feel free to explore my repositories.</em>
+  <em>Thanks for visiting — feel free to explore my repositories.</em>
 </div>
