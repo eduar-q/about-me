@@ -1,46 +1,52 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Linux%20Security%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
-</div>
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Linux%20Security%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <strong>Linux Security • Blue Team • Infrastructure</strong>
-</p>
+&lt;p align="center"&gt;
+  &lt;strong&gt;Linux Security • Blue Team • Infrastructure Hardening&lt;/strong&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <em>Automating security reviews and building defensive tooling with Python & Bash.</em>
-</p>
+&lt;p align="center"&gt;
+  &lt;em&gt;Building defensive tools that automate what a SOC analyst shouldn't do by hand.&lt;/em&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <a href="https://linkedin.com/in/eduar-q-129bb5258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/eduar-q">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/eduar-q-129bb5258/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/eduar-q"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
 ## 👋 About Me
 
-I'm **Eduar Q.**, a **Computer Engineer** focused on **Linux security, defensive operations and infrastructure hardening**.
+I'm **Eduar Q.**, a **Computer Engineer** focused on **Linux security, defensive operations, and infrastructure hardening**.
 
-I build practical tools that automate security audits, analyze system configurations and generate actionable reports, reducing manual work and improving visibility over critical Linux environments.
+My path into technology started with hands-on technical support — assembling hardware, repairing systems, and configuring networks from the ground up. That practical foundation led me to pursue Computer Engineering, where I learned to understand systems from the inside out. Today, I apply that same methodical approach to cybersecurity, building practical tools that automate audits, analyze configurations, and generate actionable reports.
 
 **What I do:**
-- 🔍 Automate security configuration reviews (SSH, firewall, users, services)
-- 📊 Build timelines and reports from system snapshots for incident response
-- 🛠️ Develop defensive scripts using Python, Bash and Linux native tools
-- 📝 Document security baselines and audit methodologies
+- 🔍 Automate security configuration reviews (SSH, firewall, users, services, logs)
+- 📊 Build system timelines and baselines for change detection
+- 🛠️ Develop defensive scripts using Bash and native Linux tooling
+- 📝 Document audit methodologies with OpSec in mind
 
-> *"Effective security starts with understanding the system before attempting to secure it."*
+&gt; *"Effective security starts with understanding the system before attempting to secure it."*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 [Linux Security Change Timeline](https://github.com/eduar-q/linux-security-change-timeline)
+### 🔐 [Cybersecurity Foundations Lab](https://github.com/eduar-q/cybersecurity-foundations-lab)
+A modular, read-only audit toolkit for Linux covering network analysis, user permissions, process monitoring, log analysis, and SSH hardening. Built entirely in Bash for junior SOC and Blue Team workflows.
 
+**Stack:** Bash • Linux Native Tools • Markdown
+
+---
+
+### 🔐 [Linux Security Change Timeline](https://github.com/eduar-q/linux-security-change-timeline)
 Collects system configuration snapshots and generates chronological diff reports to detect **modified, added and removed** security-critical files across Linux systems.
 
 **Stack:** Python • Bash • Markdown
@@ -48,7 +54,6 @@ Collects system configuration snapshots and generates chronological diff reports
 ---
 
 ### 👥 [Linux Privileged Access Review](https://github.com/eduar-q/linux-privileged-access-review)
-
 Audits privileged Linux accounts by correlating primary/secondary group memberships (GID) with login activity to flag accounts requiring administrative review.
 
 **Stack:** Python • `pwd`/`grp` • `lastlog`
@@ -57,33 +62,33 @@ Audits privileged Linux accounts by correlating primary/secondary group membersh
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/>
-</p>
+&lt;p align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,github"/&gt;
+&lt;/p&gt;
 
 ---
 
 ## 📚 Currently Exploring
 
-- Advanced Linux hardening (CIS Benchmarks, auditd, SELinux)
-- Blue Team detection engineering (Sigma rules, log analysis)
-- Security automation and SOAR concepts
+- Advanced Linux hardening (CIS Benchmarks, auditd, UFW/iptables)
+- Blue Team detection engineering (log correlation, anomaly detection)
+- Security automation for SOC workflows
 - Infrastructure as Code for secure deployments
 
 ---
 
 ## 📫 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/eduar-q-129bb5258/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/eduar-q">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/eduar-q-129bb5258/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/eduar-q"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-<div align="center">
-  <br>
-  <em>⭐ Thanks for visiting — feel free to explore my repositories.</em>
-</div>
+&lt;div align="center"&gt;
+  &lt;br&gt;
+  &lt;em&gt;⭐ Thanks for visiting — feel free to explore my repositories.&lt;/em&gt;
+&lt;/div&gt;
