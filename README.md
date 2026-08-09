@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Building defensive tools that turn system noise into actionable security intelligence.</em>
+  <em>Self-taught professional. I use my Linux skills and theoretical knowledge to audit and secure systems, turning theory into practice.</em>
 </p>
 
 <p align="center">
