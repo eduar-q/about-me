@@ -28,6 +28,7 @@ I'm **Eduar Q.**, a **Computer Engineer** focused on **Linux security, defensive
 My path into technology started with hands-on technical support — assembling hardware, repairing systems, and configuring networks from the ground up. That practical foundation led me to pursue Computer Engineering, where I learned to understand systems from the inside out. Today, I apply that same methodical approach to cybersecurity, building practical tools that automate audits, analyze configurations, and generate actionable reports.
 
 **What I do:**
+
 - 🔍 Automate security configuration reviews (SSH, firewall, users, services, logs)
 - 📊 Build system timelines and baselines for change detection
 - 🛠️ Develop defensive scripts using Bash and native Linux tooling
@@ -40,6 +41,7 @@ My path into technology started with hands-on technical support — assembling h
 ## 🚀 Featured Projects
 
 ### 🔐 [Cybersecurity Foundations Lab](https://github.com/eduar-q/cybersecurity-foundations-lab)
+
 A modular, read-only audit toolkit for Linux covering network analysis, user permissions, process monitoring, log analysis, and SSH hardening. Built entirely in Bash for junior SOC and Blue Team workflows.
 
 **Stack:** Bash • Linux Native Tools • Markdown
@@ -47,6 +49,7 @@ A modular, read-only audit toolkit for Linux covering network analysis, user per
 ---
 
 ### 🔐 [Linux Security Change Timeline](https://github.com/eduar-q/linux-security-change-timeline)
+
 Collects system configuration snapshots and generates chronological diff reports to detect **modified, added and removed** security-critical files across Linux systems.
 
 **Stack:** Python • Bash • Markdown
@@ -54,6 +57,7 @@ Collects system configuration snapshots and generates chronological diff reports
 ---
 
 ### 👥 [Linux Privileged Access Review](https://github.com/eduar-q/linux-privileged-access-review)
+
 Audits privileged Linux accounts by correlating primary/secondary group memberships (GID) with login activity to flag accounts requiring administrative review.
 
 **Stack:** Python • `pwd`/`grp` • `lastlog`
