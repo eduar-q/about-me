@@ -107,13 +107,13 @@ Testable
 Useful
   ↓
 Expandable
-```
+
 The repository is part of the project.
 
 I document **why the tool exists, what it checks, how it works and where its limitations are**.
 
 No hidden complexity. No unnecessary dependencies.
-
+```
 ---
 
 ## Currently Exploring
