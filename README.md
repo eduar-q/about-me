@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=180&section=header&text=LINUX%20%7C%20DEFENSIVE%20SECURITY&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </div>
@@ -106,3 +107,25 @@ Testable
 Useful
   ↓
 Expandable
+
+The repository is part of the project.
+I document why the tool exists, what it checks, how it works and where its limitations are.
+No hidden complexity. No unnecessary dependencies.
+Currently Exploring
+Linux system administration
+Defensive security and Blue Team fundamentals
+Linux security monitoring
+Security automation with Python and Bash
+System troubleshooting and incident-oriented analysis
+Selected Technologies
+�
+￼ 
+
+A Note About My Projects
+Most of the tools here start from problems I encounter while learning and working with Linux.
+They are intentionally small.
+Some may eventually grow into larger projects, but the objective is not to make them unnecessarily complex.
+The objective is to understand the problem first.
+�
+Understand the system. Build the tool. Test the idea. 
+```
