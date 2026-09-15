@@ -53,7 +53,7 @@ Rather than building large frameworks, I usually start with a small idea that ca
 
 ## Featured Projects
 
-### [🩺 El Médico Forense](https://github.com/eduar-q/el-medico-forense)
+### [🩺 El Médico Forense](https://github.com/eduar-q/medico-forense)
 
 A lightweight Python tool for **initial Linux system triage**.
 
